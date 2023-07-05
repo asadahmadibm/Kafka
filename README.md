@@ -10,3 +10,11 @@
     
     7- start a producer  cli : kafka-console-producer.bat --broker-list localhost:9092 --topic test
     8- start a consumer cli  : kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test
+
+## Refrence 
+https://dzone.com/articles/running-apache-kafka-on-windows-os
+
+https://github.com/nieuwo/kafka-dotnet-sample
+
+https://www.codemag.com/Article/2201061/Working-with-Apache-Kafka-in-ASP.NET-6-Core
+
